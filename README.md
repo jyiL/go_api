@@ -19,6 +19,9 @@
 ## QUICK START
 	go run *.go
 
+## 访问
+	ip:8000/login
+
 ## TODO
 
 - [x] 引入jwt
