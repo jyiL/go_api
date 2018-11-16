@@ -1,4 +1,4 @@
-package main
+package router
 
 import (
     "github.com/gin-gonic/gin"
@@ -7,7 +7,7 @@ import (
     . "go_api/middlewares"
 )
 
-func initRouter() *gin.Engine {
+func InitRouter() *gin.Engine {
     router := gin.Default()
 
     // user
@@ -18,8 +18,6 @@ func initRouter() *gin.Engine {
     user.GET("/", AuthMiddleWare(), GetUsersApi)
 
     router.GET("/", AuthMiddleWare(), IndexApi)
-
-    // router.GET("/bank_log", AuthMiddleWare(), GetBankLogApi)
 
     return router
 }
