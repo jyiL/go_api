@@ -65,6 +65,12 @@
 			"revisionTime": "2018-10-05T18:17:28Z"
 		},
 		{
+			"checksumSHA1": "XnmvZs8bexu4TPlqn/mOR4ojMvc=",
+			"path": "github.com/hprose/hprose-golang",
+			"revision": "6c2a3b7138ea2c7dc4a8907d644f9f134e0fae74",
+			"revisionTime": "2018-05-17T15:21:16Z"
+		},
+		{
 			"checksumSHA1": "BVLcEDQelqXp6x9u4mbrxE7rxKs=",
 			"path": "github.com/jinzhu/gorm",
 			"revision": "472c70caa40267cb89fd8facb07fe6454b578626",
@@ -87,6 +93,30 @@
 			"path": "github.com/json-iterator/go",
 			"revision": "2433035e513208b0f7bd5b50d0aecd889b2c1ff8",
 			"revisionTime": "2018-09-14T01:48:43Z"
+		},
+		{
+			"checksumSHA1": "kHTr93VYZuhefrA2f+kMQcaRqhw=",
+			"path": "github.com/klauspost/compress/flate",
+			"revision": "30be6041bed523c18e269a700ebd9c2ea9328574",
+			"revisionTime": "2018-11-10T07:24:35Z"
+		},
+		{
+			"checksumSHA1": "kWBC7CTgppTdJFXizt4XkURbyCE=",
+			"path": "github.com/klauspost/compress/gzip",
+			"revision": "30be6041bed523c18e269a700ebd9c2ea9328574",
+			"revisionTime": "2018-11-10T07:24:35Z"
+		},
+		{
+			"checksumSHA1": "KQ77MI2l4iDQE0Z/DiDeO0S963o=",
+			"path": "github.com/klauspost/compress/zlib",
+			"revision": "30be6041bed523c18e269a700ebd9c2ea9328574",
+			"revisionTime": "2018-11-10T07:24:35Z"
+		},
+		{
+			"checksumSHA1": "vGHBCcWkLCbAc3PJcRs7vFbvaYM=",
+			"path": "github.com/klauspost/cpuid",
+			"revision": "c640019ed4bda023bac884990967336803e39e3a",
+			"revisionTime": "2018-11-11T19:45:02Z"
 		},
 		{
 			"checksumSHA1": "xxLSo5tKtXc7jGrR70yoEfza8Cw=",
@@ -135,6 +165,30 @@
 			"path": "github.com/ugorji/go/codec",
 			"revision": "99ea80c8b19ad777f970258ca09c5c2d5826f0fd",
 			"revisionTime": "2018-09-27T12:51:28Z"
+		},
+		{
+			"checksumSHA1": "ua2PK6PDbNCyzxOmakS3BJoF8Co=",
+			"path": "github.com/valyala/bytebufferpool",
+			"revision": "cdfbe9377474227bb42120c1e22fd4433e7f69bf",
+			"revisionTime": "2018-09-05T18:22:47Z"
+		},
+		{
+			"checksumSHA1": "73+kMtgyN0SgeSpqF7qmnlkUGmw=",
+			"path": "github.com/valyala/fasthttp",
+			"revision": "cd72109b02202f2b107e8bd710b1b2b2bb402037",
+			"revisionTime": "2018-11-15T17:17:48Z"
+		},
+		{
+			"checksumSHA1": "XUlODEeHXvPDrus/NY1Ah43Yf3I=",
+			"path": "github.com/valyala/fasthttp/fasthttputil",
+			"revision": "cd72109b02202f2b107e8bd710b1b2b2bb402037",
+			"revisionTime": "2018-11-15T17:17:48Z"
+		},
+		{
+			"checksumSHA1": "XXd4XI5F0duiRD/a0SHq2V8hdFM=",
+			"path": "github.com/valyala/fasthttp/stackless",
+			"revision": "cd72109b02202f2b107e8bd710b1b2b2bb402037",
+			"revisionTime": "2018-11-15T17:17:48Z"
 		},
 		{
 			"path": "golang.org/x/sys/unix",

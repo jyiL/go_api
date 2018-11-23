@@ -3,6 +3,8 @@
 
 ## 目录结构
 ~~~
+├─config                  配置文件
+│
 ├─controller                  控制器
 │
 ├─database               	  数据库连接层
@@ -30,3 +32,4 @@
 
 - [x] 引入jwt
 - [x] 接入数据库
+- [x] 接入Hprose
